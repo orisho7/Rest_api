@@ -18,19 +18,3 @@ Technologies Used
     SQLite
     React
     Next
-
-Getting Started
-
-    Clone the repository
-    git clone https://github.com/your-username/itunes-search-app.git
-
-    Install dependencies
-    npm install
-
-    Run the app
-    node index.js
-
-    Open your browser and go to
-    http://localhost:3000
-
-Project Structure
